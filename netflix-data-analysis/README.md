@@ -1,7 +1,5 @@
 Absolutely! Below is a full `README.md` draft for your **Netflix Dataset Analysis** project, covering everything you've done in **Step 1: Data Identification & Exploration**.
 
-You can copy-paste this into your `README.md` file in your GitHub repo/project folder.
-
 ---
 
 # Netflix Dataset Analysis

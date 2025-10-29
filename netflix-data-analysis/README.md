@@ -71,5 +71,7 @@ I used a heatmap to visualize correlation between numeric variables (e.g., `year
 
 Step 2 involves basic initial activities like data cleaning. The column that has the most null values is that of a director but i think thta for now I will choose the keep the columns cast and director since those are integral parts of any piece of media. I will have to find another way to work around the data in somw way to make it more efficient. 
 
+More cleaning process was applied. Columns with missing values were termes 'Unknown'. The release year type was converted to Integer for ease in feature extraction. The casing for coumns of Rating, Country and Type was standardized. 
+
 
 
